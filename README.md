@@ -1,4 +1,1 @@
-CNN_Intern
-==========
-
-The programme I worked for.
+Java learning by myself.
